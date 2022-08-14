@@ -7,7 +7,7 @@ public class sampletogit {
 	@Test
 	public void deshkart() {
 		
-		System.out.println("git is successfull");
+		System.out.println("git is successfull to pull requests");
 		
 	}
 	
